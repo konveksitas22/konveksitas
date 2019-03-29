@@ -1,0 +1,2 @@
+# konveksitas
+konveksi tas
